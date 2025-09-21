@@ -84,7 +84,7 @@
 
 ![ Listening ](listening.jfif "Listening")
 
-### Empathic listening▬
+### Empathic listening
 
 ![ Group Discuss ](groupDiscuss.jpg "Group Discuss")
 
@@ -111,3 +111,4 @@
 ### Empathetic listening
 
 ---
+
