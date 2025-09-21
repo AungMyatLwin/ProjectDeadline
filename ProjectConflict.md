@@ -1,58 +1,113 @@
-### Conflict between Frontend and Backend
+# Conflict between **Frontend and Backend**
 
-- Backend developer has to reroutes everytime frontend design changes.
-  ![ Backend Problem ](FrontBackConflict.webp "backend")
-- Frontend developer has to juggle requests from multiple teachers.
-  ![ Frontend Problem ](2.webp "overwhelming")
-- Due to deadline closer, these conflicts are critical and needed to resolves as soon as possible.
-  ![ Closer Deadline ](deadline.jfif "Deadline")
-- Conflicts arises due to unfair workload distribution.
-  ![Conflict](conflict.jpg "Conflict Rises")
+## Backend developer has to **reroutes url everytime frontend design changes**.
 
-### Solution
+![ Backend Problem ](FrontBackConflict.webp "backend")
 
-- Extends deadline
+---
+
+## Frontend developer has to **juggle multiple conflicted requests from multiple teachers**.
+
+![ Frontend Problem ](2.webp "overwhelming")
+
+---
+
+## Due to deadline closer, these conflicts are **critical and needed to resolves as soon as possible**.
+
+![ Closer Deadline ](deadline.jfif "Deadline")
+
+---
+
+## Conflicts arises due to
+
+1. Changes in frontend affects backend.
+2. Multiple ambiguous and conflicted requests
+
+![Conflict](conflict.jpg "Conflict Rises")
+
+---
+
+# Solutions
+
+## Extends deadline
 
 ![ Deadline ](deadline.jfif "Deadline")
 
-- Simplify redesigns by using modularity
+1. Improves work quality
+2. Boosts morale and reduces burnout
+3. Enhances problem-solving
+4. maintain positivie relationships
+
+---
+
+## Simplify redesigns by using modularity
 
 ![ Modularity ](module.webp "Module")
 
-- Adding new team members
+1. Reduce Complexity
+2. Better estimation
+3. Enhanced Flexibility and scalability
 
-  ![ NewTeam ](newTeam.jpg "Team Member Added")
+---
 
-### Effective Communication Strategies Used
+## Adding new team members
 
-- Team collaboration
+![ NewTeam ](newTeam.jpg "Team Member Added")
+
+1. Workload Redistribution
+2. free up senior devs for high-priority work
+
+---
+
+## Centralize Communication Channels
+
+![ Centralize Communication ](centralizedCommunication.webp "Centralize Communication")
+
+1. Funnel all requests through a single point
+2. Use structured formats like task boards or issue trackers to reduce ambiguity
+
+---
+
+## Effective Communication Strategies Used
 
 ![ Collaboration ](collaboration.png "collaboration")
 
-- Active listening communication
+### Team collaboration
 
-  ![ Active Listening ](activeListening.jfif "Active Listen")
+![ Active Listening ](activeListening.jfif "Active Listen")
 
-- Brainstorming
+### Active listening communication
 
-  ![ BrainStorming ](Brainstorming.webp "brainstorming")
+![ BrainStorming ](Brainstorming.webp "brainstorming")
 
-- Empathic listening
+### Brainstorming
 
-  ![ Listening ](listening.jfif "Listening")
+![ Listening ](listening.jfif "Listening")
 
-- Discussing
+### Empathic listening▬
 
-  ![ Group Discuss ](groupDiscuss.jpg "Group Discuss")
+![ Group Discuss ](groupDiscuss.jpg "Group Discuss")
 
-### Debrief
+### Discussing
 
-- Fair distribution workload
-  ![ Workload Balance ](workloadBalance.webp "Workload Balance")
-- Really listening to concerns
+---
 
-  ![ Listening ](listening.jfif "Listening")
+## Debrief
 
-- Empathetic listening
+![ Workload Balance ](workloadBalance.webp "Workload Balance")
 
-  ![ Listening ](empList.jpg "Listening")
+### Fair distribution workload
+
+---
+
+![ Listening ](listening.jfif "Listening")
+
+### Really listening to concerns
+
+---
+
+![ Listening ](empList.jpg "Listening")
+
+### Empathetic listening
+
+---
