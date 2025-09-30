@@ -1,18 +1,18 @@
 # Conflict between **Frontend and Backend**
 
-## Backend developer has to **reroutes url everytime frontend design changes**.
+## Backend developer has to **reroutes url everytime frontend design changes**
 
 ![ Backend Problem ](FrontBackConflict.webp "backend")
 
 ---
 
-## Frontend developer has to **juggle multiple conflicted requests from multiple teachers**.
+## Frontend developer has to **juggle multiple conflicted requests from multiple teachers**
 
 ![ Frontend Problem ](2.webp "overwhelming")
 
 ---
 
-## Due to deadline closer, these conflicts are **critical and needed to resolves as soon as possible**.
+## Due to deadline closer, these conflicts are **critical and needed to resolves as soon as possible**
 
 ![ Closer Deadline ](deadline.jfif "Deadline")
 
@@ -27,9 +27,9 @@
 
 ---
 
-# Solutions
+## Solutions
 
-## Extends deadline
+### Extends deadline
 
 ![ Deadline ](deadline.jfif "Deadline")
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Simplify redesigns by using modularity
+### Simplify redesigns by using modularity
 
 ![ Modularity ](module.webp "Module")
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Adding new team members
+### Adding new team members
 
 ![ NewTeam ](newTeam.jpg "Team Member Added")
 
@@ -59,7 +59,7 @@
 
 ---
 
-## Centralize Communication Channels
+### Centralize Communication Channels
 
 ![ Centralize Communication ](centralizedCommunication.webp "Centralize Communication")
 
@@ -70,25 +70,25 @@
 
 ## Effective Communication Strategies Used
 
-![ Collaboration ](collaboration.png "collaboration")
-
 ### Team collaboration
 
-![ Active Listening ](activeListening.jfif "Active Listen")
+![ Collaboration ](collaboration.png "collaboration")
 
 ### Active listening communication
 
-![ BrainStorming ](Brainstorming.webp "brainstorming")
+![ Active Listening ](activeListening.jfif "Active Listen")
 
 ### Brainstorming
 
+![ BrainStorming ](Brainstorming.webp "brainstorming")
+
+### Empathic listening▬
+
 ![ Listening ](listening.jfif "Listening")
 
-### Empathic listening
+### Discussing
 
 ![ Group Discuss ](groupDiscuss.jpg "Group Discuss")
-
-### Discussing
 
 ---
 
@@ -111,4 +111,3 @@
 ### Empathetic listening
 
 ---
-
