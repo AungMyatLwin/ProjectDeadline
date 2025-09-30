@@ -94,21 +94,20 @@
 
 ## Debrief
 
-![ Workload Balance ](workloadBalance.webp "Workload Balance")
-
 ### Fair distribution workload
 
----
+![ Workload☻ Balance ](workloadBalance.webp "Workload Balance")
 
-![ Listening ](listening.jfif "Listening")
+---
 
 ### Really listening to concerns
 
----
+![ Listening ](listening.jfif "Listening")
 
-![ Listening ](empList.jpg "Listening")
+---
 
 ### Empathetic listening
 
----
+![ Listening ](empList.jpg "Listening")
 
+---
