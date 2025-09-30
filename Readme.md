@@ -72,21 +72,46 @@
 
 ### Team collaboration
 
+1. Regular check-ins
+2. Clear roles and responsibilities
+3. Open and transparent communication
+4. Collaborative tools
+
 ![ Collaboration ](collaboration.png "collaboration")
 
 ### Active listening communication
+
+1. Pay full attention
+2. Show that you're listening
+3. Provide feedback
+4. Defer judgment
 
 ![ Active Listening ](activeListening.jfif "Active Listen")
 
 ### Brainstorming
 
+1. Encourage wild ideas
+2. Build on the ideas of others
+3. Stay focused on the topic
+4. One conversation at a time
+
 ![ BrainStorming ](Brainstorming.webp "brainstorming")
 
-### Empathic listening▬
+### Empathic listening
+
+1. Listen without interrupting
+2. Show that you're listening
+3. Provide feedback
+4. Defer judgment
 
 ![ Listening ](listening.jfif "Listening")
 
 ### Discussing
+
+1. Set clear objectives
+2. Encourage participation
+3. Stay on topic
+4. Summarize key points
 
 ![ Group Discuss ](groupDiscuss.jpg "Group Discuss")
 
@@ -96,17 +121,29 @@
 
 ### Fair distribution workload
 
+1. Prevents burnout
+2. Boosts morale
+3. Enhances productivity
+
 ![ Workload☻ Balance ](workloadBalance.webp "Workload Balance")
 
 ---
 
 ### Really listening to concerns
 
+1. Builds trust
+2. Improves understanding
+3. Enhances problem-solving
+
 ![ Listening ](listening.jfif "Listening")
 
 ---
 
 ### Empathetic listening
+
+1. Builds rapport
+2. Improves communication
+3. Enhances relationships
 
 ![ Listening ](empList.jpg "Listening")
 
